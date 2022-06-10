@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T04:39:26.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8ow7sQCNddtzK7dkU2lM" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T04:47:53.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5Bf3WUDrH70a6-4UWs0N" version="19.0.3" type="github">
   <diagram id="ZlJ7M4qMxuyrwmrZaraY" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="s47naatWHpxSAN4C7c7a-20" value="k8s-elr" style="swimlane;startSize=0;labelPosition=left;verticalLabelPosition=bottom;align=right;verticalAlign=top;textDirection=rtl;" vertex="1" parent="1">
           <mxGeometry x="140" y="510" width="550" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="s47naatWHpxSAN4C7c7a-21" value="&lt;ul&gt;&lt;li&gt;create namespaces&lt;/li&gt;&lt;li&gt;link pods with database&lt;/li&gt;&lt;li&gt;oauth server: outline absence of it&lt;/li&gt;&lt;li&gt;keyvault&lt;/li&gt;&lt;li&gt;external config: outline absence of it&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="110" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
